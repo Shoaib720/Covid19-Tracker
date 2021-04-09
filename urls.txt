@@ -1,0 +1,11 @@
+covid cases
+https://github.com/amodm/api-covid19-in
+
+vaccination
+https://india-covid19vaccine.github.io/api/
+
+covid donate
+https://covid19responsefund.org/en
+
+myth buster
+https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters
