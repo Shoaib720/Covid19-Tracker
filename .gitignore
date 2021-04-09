@@ -3,11 +3,13 @@
 *.log
 *.pyc
 *.swp
+urls.txt
 .DS_Store
 .atom/
 .buildlog/
 .history
 .svn/
+.generated_icons/
 
 # IntelliJ related
 *.iml
