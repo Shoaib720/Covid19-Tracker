@@ -16,23 +16,23 @@ For Covid-19 Vaccination data in India:
 ### Assets
 
 - assets
-- - fonts
-- - images
+  - fonts
+  - images
 
 ### lib (Dart files)
 
 - lib
-- - pages
-- - - faq-page.dart
-- - - state-statistics-page.dart
-- - - state-vaccines-stats-page.dart
-- - panels
-- - - country-wide-panel.dart
-- - - country-wide-vaccination-panel.dart
-- - - info-panel.dart
-- data-source.dart
-- home.dart
-- main.dart
+  - pages
+    - faq-page.dart
+    - state-statistics-page.dart
+    - state-vaccines-stats-page.dart
+  - panels
+    - country-wide-panel.dart
+    - country-wide-vaccination-panel.dart
+    - info-panel.dart
+  - data-source.dart
+  - home.dart
+  - main.dart
 
 main.dart
 : It contains the main method and is the starting poin of the application.
